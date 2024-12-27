@@ -3,3 +3,4 @@ trafilatura
 sentence-transformers>=3.0.0
 accelerate
 weaviate-haystack
+lazy_imports
