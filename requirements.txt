@@ -1,7 +1,10 @@
-haystack-ai
+haystack-ai==2.7.0
 trafilatura
 sentence-transformers>=3.0.0
 accelerate
 weaviate-haystack
 lazy_imports
 assemblyai-haystack
+nvidia-haystack
+gdown
+openpyxl
