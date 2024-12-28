@@ -8,3 +8,4 @@ assemblyai-haystack
 nvidia-haystack
 gdown
 openpyxl
+duckduckgo-api-haystack
